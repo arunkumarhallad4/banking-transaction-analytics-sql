@@ -84,6 +84,7 @@ Relationships:
 ## Author
 
 Arunkumar Shivanand Hallad 
+
 MBA — Finance and Business Analytics  
 Acharya Bangalore B-School, Bengaluru  
 SEBI Investor Certified
